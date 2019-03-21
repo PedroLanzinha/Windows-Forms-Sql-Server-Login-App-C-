@@ -1,0 +1,11 @@
+C:\Users\Pedrolan\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.csprojAssemblyReference.cache
+C:\Users\Pedrolan\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.FrmLogin.resources
+C:\Users\Pedrolan\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.FrmMain.resources
+C:\Users\Pedrolan\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+C:\Users\Pedrolan\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.cache
+C:\Users\Pedrolan\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\Pedrolan\source\repos\LoginApp\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\Pedrolan\source\repos\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\Pedrolan\source\repos\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\Pedrolan\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\Pedrolan\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.pdb
